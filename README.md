@@ -1,1 +1,2 @@
 # qiitaCoreData
+Qiitaで利用したCoredataを利用した例
